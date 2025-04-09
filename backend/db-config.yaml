@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: db-config-2022bcd0053
+data:
+  host: mysql
+  name: expense_tracker
